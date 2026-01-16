@@ -1,0 +1,1 @@
+express bcrypt dotenv jsonwebtoken sequelize sqlite3
